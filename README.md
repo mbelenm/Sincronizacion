@@ -6,3 +6,6 @@ C++ los programas para sincronizar las maquinas utilizando el Algoritmo de Lampo
 B. Realizar programas en C++ para sincronizar Computadoras Utilizando el Algoritmo de
 Berkeley
 C. Programa el método de Cristian para sincronizar relojes.
+
+
+En vez de C++ lo hicimos en JAVA
